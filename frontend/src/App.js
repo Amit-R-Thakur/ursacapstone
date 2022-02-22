@@ -1,7 +1,9 @@
+import Admin from "../admin/pages/Admin";
+
 function App() {
   return (
     <div className="App">
-      <h1>Welcome</h1>
+    <Admin />
     </div>
   );
 }
